@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\store\cah\creat\2018\opencv\knn_handwritten\knn_handwritten\main.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\store\cah\creat\2018\opencv\knn_handwritten\knn_handwritten\main.cpp(25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\store\cah\creat\2018\opencv\knn_handwritten\knn_handwritten\main.cpp(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\store\cah\creat\2018\opencv\knn_handwritten\knn_handwritten\main.cpp(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  KNN_HandWritten.vcxproj -> D:\Store\CAH\Creat\2018\openCV\KNN_HandWritten\x64\Debug\KNN_HandWritten.exe
